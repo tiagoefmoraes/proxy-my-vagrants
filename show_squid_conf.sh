@@ -1,0 +1,1 @@
+cat /etc/squid3/squid.conf | grep -v ^# | grep -v ^$
